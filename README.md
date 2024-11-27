@@ -73,9 +73,6 @@ The future scope of the project includes:
 
 ---
 
-## Contributors
-
-- Shyam Singh (shyamsingh78790@gmail.com)
 
 
 ---
@@ -93,8 +90,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ---
 
-## Contact
-
-For inquiries, please contact the project lead at shyamsingh78790@gmail.com.
 
 
